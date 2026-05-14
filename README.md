@@ -1,18 +1,20 @@
-# Module de Closing — Technique de Vente Slide 10
+# Speak, Influence, Win — Slide 6
 
-**Course:** Technique de Vente  
-**Slide:** 10  
-**Live URL:** https://jb-liart.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-Final sales technique module focused on closing the sale — converting a consultation into a confirmed booking or purchase. Covers how to present pricing confidently, overcome last-minute hesitation, and use soft closing phrases that feel natural rather than pushy. At slide 10, this is the concluding practical skill that brings together all the communication techniques taught throughout the Technique de Vente course.
+**Course:** Speak, Influence, Win
+**Slide:** 6
+**Live URL:** https://jb-liart.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![jb](./screenshot.png)
+![jb](https://github.com/youssefbarj/jb/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
